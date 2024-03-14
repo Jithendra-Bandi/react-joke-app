@@ -1,0 +1,12 @@
+.home-container {
+    background-image: url("https://tse3.explicit.bing.net/th?id=OIP.wHASAHqT-JlDx1DIh0WGBwHaEK&pid=Api&P=0&h=220");
+    background-size: cover;
+    min-height: 100vh;
+    color:#ffffff;
+}
+.logo {
+    height: 50px;
+}
+nav {
+    padding: 14px;
+}
